@@ -1,5 +1,9 @@
 {
-    "name": "php-iban/php-iban",
-    "description": "Parse and validate IBAN (and IIBAN) bank account information",
-    "version": "1.4.7"
+    "name": "rtablada/exif",
+    "description": "A package for dealing with exif image orientation",
+    "require": {
+        "php": ">=5.3.0",
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
 }
